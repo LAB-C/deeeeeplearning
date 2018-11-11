@@ -3,11 +3,15 @@ import Logos from '../components/Headers/Logo/Logo'
 import Login from '../components/Headers/Login/Login'
 import Banner from '../components/Headers/Banner/Banner.js'
 import { Route, Switch } from 'react-router-dom';
+<<<<<<< HEAD
 
 import Home from './Home/Home'
 import Signin from './Signin/Signin'
 import Signup from './Signup/Signup'
 import Mypage from './Mypage/Mypage'
+=======
+import Home from '../Pages/Home.js';
+>>>>>>> master
 
 import './App.scss';
 
